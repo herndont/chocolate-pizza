@@ -1,0 +1,106 @@
+*{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    font-size: 110%;
+}
+body{
+    display: block;
+}
+#logo{
+    width: 300px;
+    margin-left: 180px;
+
+}
+header{
+    display: inline-block;
+}
+header ul{
+    list-style-type: none;
+}
+header li{
+    position: relative;
+    left: 880px;
+    bottom: 90px;
+    float: right;
+}
+hr{
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+main h1{
+    font-size: 170%;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    position: relative;
+    top: 25px;
+}
+main h4{
+    font-size: 80%;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left
+}
+#pizza{
+    width: 1200px;
+    position: relative;
+    left: 90px;
+}
+#print{
+    width: 5%;
+    position: relative;
+    float: none;
+    bottom: 820px;
+    left: 1300px;
+}
+main p{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-indent: 50px;
+    text-align: left;
+}
+#list{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+main ul{
+    list-style-type: none;
+}
+main li{
+    width: 400px;
+    float: inherit;
+}
+#first{
+    position: relative;
+    bottom: 350px;
+    left: 230px;
+}
+#second{
+    position: relative;
+    bottom: 578px;
+    left: 750px;
+}
+footer{
+    position: relative;
+    bottom: 450px;
+}
+footer h3{
+    position: relative;
+    left: 280px;
+    bottom: 100px;
+}
+footer h4{
+    width: 150;
+}
+#author{
+    position: relative;
+    left: 180px;
+}
+
