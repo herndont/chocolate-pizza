@@ -1,7 +1,4 @@
 *{
-    border: 2px;
-    border-color: black;
-    border-style: solid;
     font-size: 110%;
 }
 body{
@@ -28,6 +25,7 @@ hr{
 	height: 6px;
 	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
     border: 0;
+    width: 1200px;
 }
 main h1{
     font-size: 170%;
@@ -97,10 +95,37 @@ footer h3{
     bottom: 100px;
 }
 footer h4{
-    width: 150;
+    border: 3px;
+    border-color: black;
+    background-color: orange;
+    position: relative;
+    bottom:220px;
+    left: 1150px;
+    width: 220px;
+    height: 50px;
+    text-align: center;
+    color: white;
 }
 #author{
     position: relative;
     left: 180px;
+}
+#about{
+    position: relative;
+    left: 280px;
+    bottom: 110px;
+    width: 690px;
+}
+#logo2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    bottom: 100px;
+}
+#last{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
 }
 
